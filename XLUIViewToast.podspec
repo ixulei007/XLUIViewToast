@@ -1,10 +1,7 @@
 Pod::Spec.new do |s|
 s.name         = "XLUIViewToast"
 s.version      = "1.0.0"
-s.summary      = "toast自定义提示框"
-s.description  = <<-DESC 
-                          XLUIViewToast 是一个自定义提示框
-                   DESC
+s.summary      = "toast"
 s.homepage     = "https://github.com/ixulei007/XLUIViewToast"
 s.license      = "MIT"
 s.author             = { "ixulei007" => "913758440@qq.com" }

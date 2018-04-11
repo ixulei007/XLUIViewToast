@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.summary  = 'Progress Bar Design with Percentage values.'
   s.homepage = 'https://github.com/ixulei007'
   s.author   = { 'xl' => 'appdesignvault' }
-  s.source   = { :git => 'https://github.com/ixulei007/XLUIViewToast.git', :commit => 'f17b15c15574d6d101cd5fcfd58239e16e806647' }
+  s.source   = { :git => 'https://github.com/ixulei007/XLUIViewToast.git', :commit => '' }
   s.platform = :ios  
-  s.source_files = 'XLUIViewToast/Classes/*.{h,m}'
-  s.resources = "XLUIViewToast/Resources/*.png"
+  s.source_files = 'XLUIViewToast/Classes'
+  s.resources = "XLUIViewToast/Resources"
   s.framework = 'UIKit'
 
   s.requires_arc = true  

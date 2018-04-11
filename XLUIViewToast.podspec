@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'ADVProgressBar'
+  s.name     = 'XLUIViewToast'
   s.version  = '1.0.0'
   s.license  = 'MIT'
   s.summary  = 'Progress Bar Design with Percentage values.'

@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'toast自定义提示框'
   s.homepage = 'https://github.com/ixulei007'
   s.author   = { 'xl' => 'ixulei007' }
-  s.source   = { :git => 'https://github.com/ixulei007/XLUIViewToast.git', :commit => '' }
+  s.source   = { :git => 'https://github.com/ixulei007/XLUIViewToast.git', :tag => s.version, :submodules => true }
   s.platform = :ios  
   s.source_files = 'XLUIViewToast/Classes'
   s.resources = "XLUIViewToast/Resources"
